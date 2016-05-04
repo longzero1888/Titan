@@ -1,0 +1,19 @@
+{
+  "name": "titan",
+  "version": "1.0.0",
+  "description": "process manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longzero1888/Titan.git"
+  },
+  "author": "zhaolei,xuyanan,liyanghua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/longzero1888/Titan/issues"
+  },
+  "homepage": "https://github.com/longzero1888/Titan#readme"
+}
